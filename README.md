@@ -59,3 +59,13 @@ The dataset includes the following fields for each player:
 3. Install required libraries:
    ```bash
    pip install pandas matplotlib seaborn
+   
+##📜 License
+This project is part of the Data Analytics Internship at CodeAlpha and is for educational and portfolio use only.
+
+## 🙋‍♂️ Author
+
+**Adham Tamer**  
+Data Analytics Intern — CodeAlpha  
+[GitHub](https://github.com/Tamoora69) | [LinkedIn](https://www.linkedin.com/in/adhamtamer/)
+
